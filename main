@@ -1,0 +1,52 @@
+--background-image: url(https://i.pinimg.com/originals/43/44/d3/4344d3fe82f635cb12ad12917f472dfa.gif);
+    --friends-icon: url(https://i.pinimg.com/originals/69/42/86/69428697bde97422aa5b22d733db0810.gif);
+    --friends-icon-position: center center;
+    --friends-icon-zoom: 100%;
+    --main-color: rgb(67, 181, 129); 
+    --main-transparency: rgba(0, 0, 0, 0.45);
+    --unread-server-animation: rainbow;
+    --hover-list-bg-color: rgba(255,255,255, .15);
+    --border-lines-color: hsla(0,0%,100%,.1);
+    --scroll-bar-color: rgba(255,255,255, .15);
+    --font-size: 16px;
+    --selected-text-voice-color: #f6f6f7;
+    --text-hover-color: #b9bbbe;
+    --voice-hover-color: #f6f6f7;
+    --unread-text-color: #dcddde;
+    --options-transparency: transparent;
+    --background-size: 2%;
+}
+ 
+.wordmark-2iDDfm.wordmarkWindows-1v0lYD {
+  width: auto;
+  height: 22px;
+  padding: 0 0 0 4px;
+  line-height: 22px;
+  font-size: 0.925em;
+  color: var(--text-normal); }
+.wordmark-2iDDfm.wordmarkWindows-1v0lYD:before, .wordmark-2iDDfm.wordmarkWindows-1v0lYD:after {
+    position: relative;
+    width: auto;
+    height: 22px; }
+.wordmark-2iDDfm.wordmarkWindows-1v0lYD:before {
+    content: "DISCORD";
+    font-weight: 700; }
+
+.wordmark-2iDDfm.wordmarkWindows-1v0lYD svg {
+    display: none; }
+ 
+.titleBar-AC4pGV > .winButtonMinMax-PBQ2gm {
+    background: #a3be8c !important;
+    border-radius: 5px !important;
+    width: 10px !important;
+    height: 10px !important;
+    margin: 5px 15px 5px 15px !important;
+    transition: background-color 250ms ease-in;
+}.winButtonClose-1HsbF- {
+    background: #bf616a !important;
+    border-radius: 5px !important;
+    width: 10px !important;
+    height: 10px !important;
+    margin: 5px 15px 5px 15px !important;
+    transition: background-color 250ms ease-in;
+} 
